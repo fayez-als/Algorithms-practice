@@ -1,7 +1,7 @@
 # Algorithms
 
 
-This repository is for demonstrating my algorithm designing skills.
+This repository is for demonstrating my algorithms skills.
 
 
 

@@ -8,7 +8,8 @@ This repository is for demonstrating my basic algorithms skills.
 
 ## ----- Sorting Algorithms ------
 
-
+[Bubble Sort](https://github.com/fayez-als/Algorithms/blob/main/Bubble_Sort.ipynb)
+Worst Case complexity theta(n**2)
 
 [Insertion Sort](https://github.com/fayez-als/Algorithms/blob/main/Insertion_Sort.ipynb)
 Worst Case complexity theta(n**2)

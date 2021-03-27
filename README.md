@@ -18,7 +18,7 @@ Worst Case complexity theta(n**2)
 
   
 
-[Merge Sort](https://github.com/fayez-als/Algorithms/blob/main/merge_sort%20(1).ipynb)
+[Merge Sort](https://github.com/fayez-als/Algorithms/blob/main/merge_sort.ipynb)
 Worst Case complexity theta(nlogn)
 
 

@@ -8,7 +8,7 @@ This repository is for demonstrating my algorithm designing skills.
 
 ## ----- Sorting Algorithms ------
 
-Merge Sort:
+Merge Sort: Worst Case time complexity $\theta_nlogn$
 
 **proof of correctness**
 
@@ -22,6 +22,7 @@ at the start of each iteration the subarray A[p…k-1] contains k-p smallest ele
 Hence the resulting subarray of A[p:k] will remain sorted.
 
 **Termination:** the function will terminate when k = r+1 so the array of A[p:r] will be sorted.
+
 
 
 

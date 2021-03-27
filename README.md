@@ -8,7 +8,7 @@ This repository is for demonstrating my algorithm designing skills.
 
 ## ----- Sorting Algorithms ------
 
-Merge Sort: Worst Case time complexity theta(nlogn)
+### Merge Sort: Worst Case time complexity theta(nlogn)
 
 **proof of correctness**
 

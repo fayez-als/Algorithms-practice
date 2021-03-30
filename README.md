@@ -25,7 +25,7 @@ Worst Case complexity theta(n**2)
 Worst Case complexity theta(nlogn)
 
 
-[Max Subarray] (https://github.com/fayez-als/Algorithms/blob/main/max_subarray.ipynb)
+[Max Subarray](https://github.com/fayez-als/Algorithms/blob/main/max_subarray.ipynb)
 Worst Case complexity theta(nlogn)
 
 
